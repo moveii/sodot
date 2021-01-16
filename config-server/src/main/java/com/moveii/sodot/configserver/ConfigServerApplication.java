@@ -1,4 +1,4 @@
-package com.moveii.configserver;
+package com.moveii.sodot.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
