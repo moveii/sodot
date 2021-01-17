@@ -1,13 +1,13 @@
-package com.moveii.sodot;
+package com.moveii.sodot.apigateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SodotApplication {
+public class ApiGatewayApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SodotApplication.class, args);
+        SpringApplication.run(ApiGatewayApplication.class, args);
     }
 
 }
